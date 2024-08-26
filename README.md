@@ -32,7 +32,7 @@ The application only asks for the username and provides access to the account wi
 **Description:** The Angular Consumption Calculator rounds the final caffeine consumption value to the nearest whole number. This behavior may lead to inaccuracies, especially when users need precise measurements. For example, a calculated value of 107.5 mg of caffeine is rounded to 108 mg, which might not be acceptable in scenarios requiring exact figures.
 
 **Steps to Reproduce:**
-  1.	Open the Consumption Calculator (globalsqa.com).
+  1.	Open the Consumption Calculator (https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator)
   2.	Enter 1 cup of coffee.
   3.	Set the caffeine per cup value to 107.5 mg.
   4.	Observe that the final caffeine consumption is displayed as 108 mg instead of 107.5 mg.
@@ -47,7 +47,8 @@ The calculator rounds the final value to 108 mg, leading to a potential loss of 
 Cups of coffee: 1
 Caffeine per cup: 107.5 mg
 
-**Status:**: NEW (NEW, IN PROGRESS, DONE, REOPEN)
+**Status:** NEW (NEW, IN PROGRESS, DONE, REOPEN)
+
  ------------------------------------------------------------------------
 
 **Priority and Severity:** P2 - High
