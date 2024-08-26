@@ -1,5 +1,7 @@
 # Bugs
 
+Below are some Bug samples that I wrote while working on previous projects.
+
 **Priority and Severity:** P1 - Critical
 
 **Title:** Banking application does not request a password during login, exposing sensitive financial data
@@ -22,7 +24,7 @@ The application only asks for the username and provides access to the account wi
 
 **Status:** NEW (NEW, IN PROGRESS, DONE, REOPEN)
 
-
+------------------------------------------------------------------------
 **Priority and Severity:** P3 - Medium
 
 **Title:** Caffeine consumption calculator rounds off the final value incorrectly
@@ -46,7 +48,7 @@ Cups of coffee: 1
 Caffeine per cup: 107.5 mg
 
 **Status:**: NEW (NEW, IN PROGRESS, DONE, REOPEN)
- 
+ ------------------------------------------------------------------------
 
 **Priority and Severity:** P2 - High
 
